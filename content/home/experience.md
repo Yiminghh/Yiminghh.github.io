@@ -4,13 +4,13 @@
 widget: experience
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 121
 
 title: Experience
 subtitle:
@@ -36,6 +36,7 @@ experience:
     * Deploying
   location: California
   title: CEO
+  
 - company: University X
   company_url: ""
   date_end: "2016-12-31"
