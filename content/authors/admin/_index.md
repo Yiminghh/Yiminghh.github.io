@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yiming Huang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Electronic Science and Technology of China
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include network science, vital node identification, and graph learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Network Science
+- Vital Node Identification
+- Graph Representation Learning
+- Quantum Computation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Studing in Computer Science and Technology
+    institution: University of Electronic Science and Technology of China (UESTC)
+    year: 2021
+  - course: BSc in Computer Science and Technology
+    institution: Nanjing University of Information Science and Technology (NUIST)
+    year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

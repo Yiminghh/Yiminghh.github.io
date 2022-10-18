@@ -1,6 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
+# 这部分是个人简历
 widget: about
 
 # Activate this widget? true/false
