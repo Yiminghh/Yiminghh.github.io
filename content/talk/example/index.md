@@ -2,7 +2,7 @@
 title: Example Talk
 event: Academic Theme Conference
 event_url: https://example.org
-
+draft : true
 location: Source Themes HQ
 address:
   street: 450 Serra Mall

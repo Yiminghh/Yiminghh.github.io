@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://github.com/Yiminghh/Yiminghh.github.io/static/files/quantum-steganalysis.pdf
+url_pdf: ./quantum-steganalysis.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
