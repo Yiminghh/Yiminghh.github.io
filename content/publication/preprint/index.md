@@ -5,6 +5,10 @@ authors:
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
+
+# draft：true之后就不会显示
+draft: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
@@ -18,10 +22,9 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: The quantum steganalysis faces more challenges than classical steganalysis owing to the support of quantum mechanical principles such as Heisenberg uncertainty principle and non-cloning theorem. In this paper, a novel quantum steganalysis protocol based on pure state is proposed, which adheres to the fundamental fact that classical steganography tends to change the probability distribution of the carrier, and the physical properties that the unknown quantum state discrimination process is sensitive to the distribution in quantum state discrimination. After utilizing accurate calculation on the geometric coherence and 1/2-affinity coherence to obtain the probability that the transmitted quantum states can be correctly discriminated, effective detection on covert communication can be achieved by comparing the detected distribution with theoretical distribution. Meanwhile, steganographic detection rate and false alarm rate are introduced as two significant performance evaluation parameters of quantum steganalysis. In this paper, the quantum steganalysis and performance evaluation targeting the BB84-based quantum steganography proposed by Martin are given in detail. The geometric coherence and 1/2-affinity coherence change substantially when the steganographic embedding rate is above 0.2, and a high steganographic detection rate and a low false alarm rate can be obtained according to the proposed protocol. Besides, the impact on QKD efficiency can be controlled by adjusting the detection rate or adopting sampling detection strategy. It proves that the proposed protocol has a satisfactory quantum steganalysis performance.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  In this paper, a novel quantum steganalysis protocol based on pure state is proposed, which adheres to the fundamental fact that classical steganography tends to change the probability distribution of the carrier, and the physical properties that the unknown quantum state discrimination process is sensitive to the distribution in quantum state discrimination.
 
 tags:
 - Source Themes

@@ -9,6 +9,10 @@ author_notes:
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
+
+# draft：true之后就不会显示
+draft: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
