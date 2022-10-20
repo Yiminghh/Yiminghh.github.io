@@ -4,11 +4,11 @@ authors:
 - Zhiguo Que
 - Yiming Huang
 - Min Zhen
-date: "2020-09"
+date: "2020-09-14"
 doi: "10.1007/s11128-020-02868-2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-09"
+publishDate: "2020-09-14"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

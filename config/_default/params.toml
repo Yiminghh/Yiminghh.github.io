@@ -94,11 +94,11 @@ email = "yimingh999@foxmail.com"
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 #address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-address = { region = "University of Electronic Science and Technology of China",  country = "China"}
+address = { region = "University of Electronic Science and Technology of China (UESTC)",  country = "China"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.749125", longitude = "103.931633"}
+# coordinates = {latitude = "30.749125", longitude = "103.931633"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -118,7 +118,7 @@ contact_links = [
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "envelope", icon_pack = "far", name = "yimingh999_at_foxmail.com"},
+  #{icon = "envelope", icon_pack = "far", name = "yimingh999_at_foxmail.com"},
   ]
 
 ############################
