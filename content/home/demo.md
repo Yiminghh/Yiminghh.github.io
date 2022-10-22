@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Network Science | Yiming Huang
-subtitle: 网络科学 ｜ 黄一鸣
+title: Network Science | Yujie Zeng
+subtitle: 网络科学 ｜ 曾钰洁
 
 design:
   columns: "1"

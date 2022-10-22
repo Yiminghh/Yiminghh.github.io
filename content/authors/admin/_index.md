@@ -20,14 +20,14 @@ organizations:
   url: "https://linyuanlab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network science, vital node identification, and graph learning.
+bio: My research interests include network science, higher-order network and vital node identification.
 
 interests:
 - Network Science
 - Higher-order Network
 - Vital Node Identification
 - Graph Representation Learning
-- Quantum Computation
+
 
 education:
   courses:
@@ -35,7 +35,7 @@ education:
     institution: University of Electronic Science and Technology of China (UESTC)
     year: 2021
   - course: BSc in Computer Science and Technology
-    institution: Nanjing University of Information Science and Technology (NUIST)
+    institution: Chongqing University of Posts and Telecommunications (CUPT)
     year: 2017
 
 
@@ -49,7 +49,7 @@ social:
   link: "mailto:yimingh999@foxmail.com"
 - icon: github
   icon_pack: fab
-  link: https://github.com/yiminghh
+  link: https://github.com/sssleverlily
 
 - icon: google-scholar
   icon_pack: ai
@@ -76,5 +76,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Yiming
+Yujie Zeng
 
