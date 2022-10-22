@@ -35,7 +35,7 @@ education:
     institution: University of Electronic Science and Technology of China (UESTC)
     year: 2021
   - course: BSc in Computer Science and Technology
-    institution: Chongqing University of Posts and Telecommunications (CUPT)
+    institution: Chongqing University of Posts and Telecommunications (CQUPT)
     year: 2017
 
 
@@ -46,11 +46,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:yimingh999@foxmail.com"
+  link: "mailto:sssleverlily@gmail.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/sssleverlily
-
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -76,5 +75,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Yujie Zeng
+A student who is working on counting stars...
 
