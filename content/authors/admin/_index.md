@@ -51,9 +51,9 @@ social:
   icon_pack: fab
   link: https://github.com/yiminghh
 
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   
 # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
@@ -76,5 +76,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My name is Yiming Huang.
+My name is Yiming Huang ...
 
