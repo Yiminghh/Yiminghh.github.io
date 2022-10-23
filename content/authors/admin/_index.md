@@ -76,5 +76,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Yiming..
+My name is Yiming Huang.
 
