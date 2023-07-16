@@ -12,10 +12,14 @@ abstract: Finding an optimal set of key nodes in a network whose removal from th
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-07-28"
-all_day: false
+all_day: true
 
 
-authors: [Yiming Huang, Hao Wang, Xiao-Long Ren, Linyuan Lü]
+authors: 
+- admin
+- Hao Wang
+- Xiao-Long
+- Linyuan
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -24,7 +28,7 @@ featured: false
 
 links:
 - name: post
-  url: ../slides/NetSci22/NetScipost.png
+  url: ../slides/VE-NetSci22/NetScipost.png
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -2,7 +2,7 @@
 title: "A novel coherence-based quantum steganalysis protocol"
 authors:
 - Zhiguo Que
-- Yiming Huang
+- admin
 - Min Zhen
 date: "2020-09-14"
 doi: "10.1007/s11128-020-02868-2"
@@ -26,7 +26,7 @@ summary:  In this paper, a novel quantum steganalysis protocol based on pure sta
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: ./quantum-steganalysis.pdf
@@ -41,9 +41,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 ---
 
