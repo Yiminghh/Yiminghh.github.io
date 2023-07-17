@@ -80,6 +80,6 @@ user_groups:
 I am **Yiming Huang (黄一鸣)**, a master student at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
 My primary research interests include higher-order network analysis, topological deep learning, influential maximization and their intersections. 
-If you have any academic problems or seeking any form of cooperation, please feel free to email me at yiming\_huang@std.uestc.edu.cn.
+If you have any academic problems or seeking any form of cooperation, please feel free to email me at yiming\_huang@std.uestc.edu.cn :smiley:
 
-I am looking for a Ph.D. position in relative area.
+I am looking for a Ph.D. position in relative area. 
