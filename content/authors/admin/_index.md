@@ -79,7 +79,7 @@ user_groups:
 
 I am **Yujie Zeng (曾钰洁)**, a master student at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
-My research interests include higher-order network dynamics, vital node Identification, and graph represent learning >_<
+My research interests include higher-order network dynamics, vital node Identification, and graph represent learning :wink:
 
 If you have any academic problems or seeking any form of cooperation, please feel free to email me at yujie\_zeng@std.uestc.edu.cn. 
 
