@@ -3,7 +3,7 @@ title: "HiGCN: Higher-order Graph Convolutional Network with Flower-Petals Lapla
 event: CNetSci 2023
 
 
-location: Chongqing
+location: Chongqing, China
 
 
 summary: Higher-order Graph Convolutional Network

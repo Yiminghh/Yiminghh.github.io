@@ -20,13 +20,14 @@ organizations:
   url: "https://linyuanlab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network science, vital node identification, and graph learning.
+bio: My research interests include network science, vital node identification, and topological deep learning.
 
 interests:
 - Network Science
 - Higher-order Network
 - Vital Node Identification
 - Graph Representation Learning
+- Topological Deep Learning
 - Quantum Computation
 
 education:
@@ -50,9 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yiminghh
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   
 # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
@@ -63,7 +64,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-# link: static/files/cv.pdf
+  link: static/files/CV_YIMING.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -75,5 +76,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-A master with a passion for network science, focusing on how to ...  Download my Simple CV .
 
+I am **Yiming Huang (黄一鸣)**, a master student at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
+
+My primary research interests include higher-order network analysis, topological deep learning, influential maximization and their intersections. 
+If you have any academic problems or seeking any form of cooperation, please feel free to email me at yiming\_huang@std.uestc.edu.cn.
+
+I am looking for a Ph.D. position in relative area.

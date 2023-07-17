@@ -3,7 +3,7 @@ title: Identifying key players in complex networks through network entanglement
 event: NetSci 2022
 
 
-location: Shanghai
+location: Shanghai, China
 
 
 summary: Vital node identification
