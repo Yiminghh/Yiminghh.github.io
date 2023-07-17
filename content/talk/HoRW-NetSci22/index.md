@@ -1,9 +1,9 @@
 ---
-title: HoRW-Augmented Random Walks on Higher-order Networks
-event: CNetSci 2023
+title: Identifying vital nodes through random walks on higher-order networks
+event: NetSci 2022
 
 
-location: Chongqing
+location: Shanghai (Online)
 
 
 summary: Vital node identification
@@ -11,11 +11,15 @@ abstract: to be appear soon.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-05-12"
+date: "2022-07-28"
 all_day: false
 
 
-authors: [Yujie Zeng, Yiming Huang, Xiao-Long Ren, Linyuan Lü]
+authors: 
+- admin
+- Yiming
+- Xiao-Long Ren
+- Linyuan
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -24,7 +28,7 @@ featured: false
 
 links:
 - name: post
-  url: content/talk/CNetSci23/feature.png
+  url: ../slides/NetSci22/NetScipost.png
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yujie Zeng
+title: Yiming Huang 
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Yiming
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Undergraduate
@@ -20,23 +20,23 @@ organizations:
   url: "https://linyuanlab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network science, higher-order network and vital node identification.
+bio: My research interests include network science, vital node identification, and topological deep learning.
 
 interests:
 - Network Science
 - Higher-order Network
-- Influence Maximization
 - Vital Node Identification
 - Graph Representation Learning
-
+- Topological Deep Learning
+- Quantum Computation
 
 education:
   courses:
   - course: Studing in Computer Science and Technology
     institution: University of Electronic Science and Technology of China (UESTC)
     year: 2021
-  - course: BSc in Intelligence Science and Technology
-    institution: Chongqing University of Posts and Telecommunications (CQUPT)
+  - course: BSc in Computer Science and Technology
+    institution: Nanjing University of Information Science and Technology (NUIST)
     year: 2017
 
 
@@ -47,28 +47,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:sssleverlily@gmail.com"
+  link: "mailto:yimingh999@foxmail.com"
 - icon: github
   icon_pack: fab
-  link: https://github.com/sssleverlily
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://github.com/yiminghh
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   
 # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-# link: static/files/cv.pdf
+  link: static/files/CV_YIMING.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yujie_zeng@std.uestc.edu.cn"
+email: "yimingh999@foxmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,9 +77,9 @@ user_groups:
 - Visitors
 ---
 
-I am **Yujie Zeng (曾钰洁)**, a master student at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
+I am **Yiming Huang (黄一鸣)**, a master student at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
-My research interests include higher-order network dynamics, vital node Identification, and graph represent learning >_<
+My primary research interests include higher-order network analysis, topological deep learning, influential maximization and their intersections. 
+If you have any academic problems or seeking any form of cooperation, please feel free to email me at yiming\_huang@std.uestc.edu.cn.
 
-If you have any academic problems or seeking any form of cooperation, please feel free to email me at yujie\_zeng@std.uestc.edu.cn. 
-
+I am looking for a Ph.D. position in relative area.
