@@ -48,13 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:yimingh999@foxmail.com"
+# (1) use `google-scholar` icon from `ai` icon pack
+# (2) use `graduation-cap` icon from `fas` icon pack
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=zh-CN&user=fwxB3U8AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/yiminghh
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  
+
 # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
@@ -62,6 +64,7 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# set ai = true pack in params.toml
 - icon: cv
   icon_pack: ai
   link: static/files/CV_YIMING.pdf
@@ -69,6 +72,10 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yimingh999@foxmail.com"
+
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
