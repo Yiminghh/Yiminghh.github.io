@@ -27,8 +27,8 @@ featured: false
 
 
 links:
+url_pdf: https://arxiv.org/pdf/2309.12971.pdf
 url_code: ""
-url_pdf: ""
 url_slides: ""
 url_video: ""
 
