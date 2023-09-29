@@ -67,7 +67,7 @@ social:
 # set ai = true pack in params.toml
 - icon: cv
   icon_pack: ai
-  link: static/files/CV_YIMING.pdf
+  link: files/CV_YIMING.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
