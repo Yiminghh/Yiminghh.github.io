@@ -1,6 +1,8 @@
 ---
 # Display name
+external_link: https://linyuanlab.com/
 title: Linyuan Lü
+
 
 # Username (this should match the folder name)
 authors:
