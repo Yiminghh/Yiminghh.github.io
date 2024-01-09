@@ -5,7 +5,7 @@ authors:
 - admin
 - Qiang Wu
 - Linyuan 
-- (Joint first author)
+- (Co-first author)
 date: "2023-07-11"
 doi: ""
 
@@ -28,9 +28,7 @@ publication_short: ""
 
 abstract: "Simplicial complexes have recently been in the limelight of higher-order network analysis, where a minority of simplices play crucial roles in structures and functions due to network heterogeneity. We find a significant inconsistency between identifying influential nodes and simplices. Therefore, it remains elusive how to characterize simplices' influence and identify influential simplices, despite the relative maturity of research on influential nodes (0-simplices) identification. Meanwhile, graph neural networks (GNNs) are potent tools that can exploit network topology and node features simultaneously, but they struggle to tackle higher-order tasks. In this paper, we propose a higher-order graph learning model, named higher-order influencer mining neural network (ISMnet), to identify vital h-simplices in simplicial complexes. In this paper, we propose a higher-order graph learning model, named influential simplices mining neural network (ISMnet), to identify vital $h$-simplices in simplicial complexes. It can tackle higher-order tasks by leveraging novel higher-order presentations: hierarchical bipartite graphs and higher-order hierarchical (HoH) Laplacians, where targeted simplices are grouped into a hub set and can interact with other simplices.  Furthermore, ISMnet employs learnable graph convolutional operators in each HoH Laplacian domain to capture interactions among simplices, and it can identify influential simplices of arbitrary order by changing the hub set.  Empirical results demonstrate that ISMnet significantly outperforms existing methods in ranking 0-simplices (nodes) and 2-simplices. In general, this novel framework excels in identifying influential simplices and promises to serve as a potent tool in higher-order network analysis."
 # Summary. An optional shortened abstract.
-summary:  "Simplicial complexes play a critical role in higher-order network analysis due to their heterogeneity, but identifying influential simplices remains elusive. This paper proposes the influential simplices mining neural network (ISMnet), which uses higher-order presentations and graph convolutional operators to identify vital simplices of arbitrary order. Empirical results demonstrate that ISMnet significantly outperforms existing methods in ranking nodes and 2-simplices, making it a potent tool in higher-order network analysis."
-
-
+summary:  "Detected an inconsistency between mining influential nodes and simplices. Innovatively formulated the influential simplices mining task as a graph learning problem and designed an influential simplices mining neural network (ISMnet) that achieves SOTA performance in this task."
 
 # tags:
 # - Source Themes
