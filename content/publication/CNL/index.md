@@ -7,7 +7,7 @@ authors:
 - Yijie Teng
 - Fang Zhou
 - Linyuan
-- (Joint first author)
+- (Co-first author)
 date: "2023-09-22"
 doi: ""
 
@@ -31,7 +31,7 @@ publication_short: ""
 abstract: "Graph research, the systematic study of interconnected data points represented as graphs, plays a vital role in capturing intricate relationships within networked systems.  However, in the real world, as graphs scale up, concerns about data security among different data-owning agencies arise, hindering information sharing and, ultimately, the utilization of graph data. Therefore, establishing a mutual trust mechanism among graph agencies is crucial for unlocking the full potential of graphs. Here, we introduce a Cooperative Network Learning (CNL) framework to ensure secure graph computing for various graph tasks. Essentially, this CNL framework unifies the local and global perspectives of GNN computing with distributed data for an agency by virtually connecting all participating agencies as a global graph without a fixed central coordinator. Inter-agency computing is protected by various technologies inherent in our framework, including homomorphic encryption and secure transmission. Moreover, each agency has a fair right to design or employ various graph learning models from its local or global perspective. Thus, CNL can collaboratively train GNN models based on decentralized graphs inferred from local and global graphs. Experiments on contagion dynamics prediction and traditional graph tasks (i.e., node classification and link prediction) demonstrate that our CNL architecture outperforms state-of-the-art GNNs developed at individual sites, revealing that CNL can provide a reliable, fair, secure, privacy-preserving, and global perspective to build effective and personalized models for network applications. We hope this framework will address privacy concerns in graph-related research and integrate decentralized graph data structures to benefit the network research community in cooperation and innovation."
 
 # Summary. An optional shortened abstract.
-summary:  "The CNL framework uniquely unifies the local and global perspectives of Graph Neural Network (GNN) computing by connecting all participating agencies as a global graph, all while operating without a fixed central coordinator. This decentralized approach, coupled with state-of-the-art security technologies such as homomorphic encryption and secure transmission, ensures that inter-agency computing remains protected. Additionally, each agency retains the autonomy to design or employ various graph models from both local and global perspectives, thus positioning CNL as a superior and more flexible solution compared to federated learning and swarm learning."
+summary:  "Developed a cooperative network learning (CNL) framework using technologies like homomorphic encryption, enabling decentralized, multi-party trusted, and privacy-preserving graph learning. "
 
 
 tags:
@@ -40,7 +40,7 @@ featured: false
 
 links:
 url_pdf: https://arxiv.org/abs/2311.02117
-url_code: ''
+url_code: https://github.com/CooperativeNetworkLearning/Cooperative-Network-Learning
 url_dataset: ''
 url_poster: ''
 url_project: ''
