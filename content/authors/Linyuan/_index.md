@@ -1,6 +1,5 @@
 ---
 # Display name
-external_link: https://linyuanlab.com/
 title: Linyuan Lü
 
 
@@ -18,7 +17,7 @@ role: Professor
 organizations:
 - name: University of Science and Technology of China 
   url: ""
-- name: CSSC team
+- name: Linyuan Lab
   url: "https://linyuanlab.com/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,16 +42,22 @@ bio: Professor, doctoral supervisor, winner of the National Natural Science Foun
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-# link: static/files/cv.pdf
 
+
+links:
+- icon:
+  name: aa
+  url: "mailto:linyuan.lv@uestc.edu.cn"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:linyuan.lv@uestc.edu.cn"
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=zh-CN&user=KFt5oWsAAAAJ&view_op=list_works&sortby=pubdate
+
 
 
 # Organizational groups that you belong to (for People widget)
