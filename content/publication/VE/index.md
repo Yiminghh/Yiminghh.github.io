@@ -36,6 +36,10 @@ tags:
 featured: false
 
 links:
+- icon_pack: 
+  icon: 
+  name: "公众号解读"
+  url: https://mp.weixin.qq.com/s/nKpdKZImB2fO-uBDSHBsgA
 url_pdf: https://www.nature.com/articles/s42005-023-01483-8
 url_code: https://github.com/Yiminghh/VertexEntanglement
 url_dataset: ''

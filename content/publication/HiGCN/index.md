@@ -45,6 +45,10 @@ links:
   url: https://www.youtube.com/watch?v=pe-L20ncdAQ
 - icon_pack: 
   icon: 
+  name: "Bilibili"
+  url: https://www.bilibili.com/video/BV1vc41147Df/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=e060cbe71c18d308e963782a155bf798
+- icon_pack: 
+  icon: 
   name: "公众号解读"
   url: https://mp.weixin.qq.com/s/uhHhMvYrjPc0miuACbuvjw
 url_pdf: https://arxiv.org/pdf/2309.12971.pdf
