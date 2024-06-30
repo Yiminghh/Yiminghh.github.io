@@ -39,6 +39,10 @@ links:
   icon: 
   name: Preprint
   url: 'https://arxiv.org/pdf/2307.05841.pdf'
+- icon_pack: 
+  icon: 
+  name: "公众号解读"
+  url: 'https://mp.weixin.qq.com/s/DnmGTCx0EJ873OsnW1_jYQ'
 url_pdf: 'https://doi.org/10.1016/j.ipm.2024.103813'
 url_code: ''
 url_dataset: 'https://github.com/sssleverlily/ISMnet'
