@@ -6,7 +6,7 @@ authors:
 - Qiang Wu
 - Linyuan
 date: "2023-09-22"
-doi: ""
+doi: "10.1609/aaai.v38i11.29160"
 
 
 # draft：true之后就不会显示
