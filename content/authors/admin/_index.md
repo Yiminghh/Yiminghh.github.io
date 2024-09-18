@@ -10,29 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Electronic Science and Technology of China 
+- name: Imperial College London
   url: ""
-- name: CSSC team
-  url: "https://linyuanlab.com/"
+- name: CIRCLE Group
+  url: "https://tolgabirdal.github.io/people/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include network science, vital node identification, and topological deep learning.
 
 interests:
 - Network Science
-- Higher-order Network
-- Vital Node Identification
-- Graph Representation Learning
 - Topological Deep Learning
+- Higher-order Network Analysis
+- Influence Maximization
+- Graph Representation Learning
 - Quantum Computation
 
 education:
   courses:
-  - course: Studing in Computer Science and Technology
+  - course: Studing in Computing Research 
+    institution: Imperial College London
+    year: 2024
+  - course: MSc in Computer Science and Technology
     institution: University of Electronic Science and Technology of China (UESTC)
     year: 2021
   - course: BSc in Computer Science and Technology
@@ -47,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:yimingh999@foxmail.com"
+  link: "mailto:y.huang24@imperial.ac.uk"
 # (1) use `google-scholar` icon from `ai` icon pack
 # (2) use `graduation-cap` icon from `fas` icon pack
 - icon: google-scholar
@@ -71,7 +74,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yimingh999@foxmail.com"
+email: "y.huang24@imperial.ac.uk"
 
 
 # Highlight the author in author lists? (true/false)
@@ -84,9 +87,12 @@ user_groups:
 - Visitors
 ---
 
-I am **Yiming Huang (黄一鸣)**, a master student at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
+I am **Yiming Huang (黄一鸣)**, a PhD student and Lee Family scholar in the [CIRCLE](https://tolgabirdal.github.io/) Group at *Imperial College London*, advised by Prof. [Tolga Birdal](https://tolgabirdal.github.io/). 
+Previously, I obtained an MSc in Computer Science and Technology from the *University of Electronic Science and Technology of China (UESTC)*, advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
-My primary research interests include higher-order network analysis, topological deep learning, influential maximization and their intersections. 
-If you have any academic problems or seeking any form of cooperation, please feel free to email me at yiming\_huang@std.uestc.edu.cn :smiley:
+My research interests primarily focus on developing novel topological deep learning methods for understanding complex and higher-order graph structures. 
+I also interested in generative models, graph representation learning, higher-order network analysis, and their interdisciplinary applications.
 
-I am looking for a Ph.D. position in relative area. 
+
+If you have any academic problems or seeking any form of cooperation, please feel free to email me at y.huang24_at_imperial.ac.uk :smiley:
+
