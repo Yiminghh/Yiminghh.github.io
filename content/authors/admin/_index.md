@@ -34,13 +34,12 @@ education:
   courses:
   - course: Studing in Computing Research 
     institution: Imperial College London
-    year: 2024
   - course: MSc in Computer Science and Technology
     institution: University of Electronic Science and Technology of China (UESTC)
-    year: 2021
+    year: 2024
   - course: BSc in Computer Science and Technology
     institution: Nanjing University of Information Science and Technology (NUIST)
-    year: 2017
+    year: 2021
 
 
 # Social/Academic Networking
