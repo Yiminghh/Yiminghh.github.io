@@ -93,5 +93,5 @@ My research interests primarily focus on developing novel topological deep learn
 I also interested in generative models, graph representation learning, higher-order network analysis, and their interdisciplinary applications.
 
 
-If you have any academic problems or seeking any form of cooperation, please feel free to email me at y.huang24_at_imperial.ac.uk :smiley:
+If you have any academic problems or seeking any form of cooperation, please feel free to email me :smiley:
 
