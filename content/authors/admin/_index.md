@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: Studing in Computing Research 
+  - course: Studying in Computing Research 
     institution: Imperial College London
   - course: MSc in Computer Science and Technology
     institution: University of Electronic Science and Technology of China (UESTC)
