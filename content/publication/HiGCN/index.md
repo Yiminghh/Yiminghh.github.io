@@ -41,6 +41,10 @@ links:
   url: 'https://arxiv.org/abs/2309.12971'
 - icon_pack: 
   icon: 
+  name: Poster
+  url: '/poster/HiGCN-poster.pdf'
+- icon_pack: 
+  icon: 
   name: "YouTube"
   url: https://www.youtube.com/watch?v=pe-L20ncdAQ
 - icon_pack: 
@@ -51,7 +55,7 @@ links:
   icon: 
   name: "公众号解读"
   url: https://mp.weixin.qq.com/s/uhHhMvYrjPc0miuACbuvjw
-url_pdf: https://arxiv.org/pdf/2309.12971.pdf
+url_pdf: ''
 url_source: ''
 url_code: https://github.com/Yiminghh/HiGCN
 url_dataset: ''
