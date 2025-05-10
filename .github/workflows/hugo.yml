@@ -51,6 +51,7 @@ jobs:
         run: |
           hugo \
             --minify \
+            --cleanDestinationDir \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Check for symlinks (debug)
         run: |
