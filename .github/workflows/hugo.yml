@@ -26,7 +26,6 @@ defaults:
     shell: bash
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     env:
@@ -45,21 +44,29 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with Hugo
         env:
-          # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo \
-            --minify \
-            --cleanDestinationDir \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Check for symlinks (debug)
+          hugo --minify --cleanDestinationDir --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Clean output (optional but strong)
         run: |
-          find ./public -type l && echo "Found symlinks!" || echo "No symlinks."
-      - name: Clean output (remove symlinks and hidden files)
-        run: |
-          find ./public -name ".DS_Store" -delete
           find ./public -type l -delete
+          find ./public -name ".DS_Store" -delete
+          find ./public -name ".git" -exec rm -rf {} +
+          find ./public -name "*.lock" -delete
+          find ./public -name "*.log" -delete
+
+      - name: List structure of ./public
+        run: |
+          echo "==== PUBLIC STRUCTURE ===="
+          ls -laR ./public
+
+      - name: Check for symlinks in ./public
+        run: |
+          echo "==== SYMLINKS FOUND ===="
+          find ./public -type l
+
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
