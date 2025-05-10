@@ -52,6 +52,13 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Check for symlinks (debug)
+        run: |
+          find ./public -type l && echo "Found symlinks!" || echo "No symlinks."
+      - name: Clean output (remove symlinks and hidden files)
+        run: |
+          find ./public -name ".DS_Store" -delete
+          find ./public -type l -delete
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
