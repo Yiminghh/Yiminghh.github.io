@@ -64,12 +64,17 @@ social:
   icon_pack: fab
   link: https://twitter.com/yimingh999
 
+- icon: weixin
+  icon_pack: fab
+  link: files/wechat_QR_code.JPG
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # set ai = true pack in params.toml
 - icon: cv
   icon_pack: ai
   link: files/CV_YIMING.pdf
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -93,5 +98,4 @@ My research interests primarily focus on developing novel topological deep learn
 I also interested in generative models, graph representation learning, higher-order network analysis, and their interdisciplinary applications.
 
 
-If you have any academic problems or seeking any form of cooperation, please feel free to email me :smiley:
-
+Please feel free to reach out for potential collaborations or discussions :smiley:
