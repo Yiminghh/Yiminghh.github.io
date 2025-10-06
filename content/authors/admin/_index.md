@@ -17,7 +17,7 @@ organizations:
 - name: Imperial College London
   url: ""
 - name: CIRCLE Group
-  url: "https://tolgabirdal.github.io/people/"
+  url: "https://circle-group.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include network science, vital node identification, and topological deep learning.
@@ -91,7 +91,7 @@ user_groups:
 - Visitors
 ---
 
-I am **Yiming Huang (黄一鸣)**, a PhD student and Lee Family scholar in the [CIRCLE](https://tolgabirdal.github.io/) Group at *Imperial College London*, advised by Prof. [Tolga Birdal](https://tolgabirdal.github.io/). 
+I am **Yiming Huang (黄一鸣)**, a PhD student and Lee Family scholar in the [CIRCLE](https://circle-group.github.io/) Group at *Imperial College London*, advised by Prof. [Tolga Birdal](https://tolgabirdal.github.io/). 
 Previously, I obtained an MSc in Computer Science and Technology from the *University of Electronic Science and Technology of China (UESTC)*, advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
 My research interests primarily focus on developing novel topological deep learning methods for understanding complex and higher-order graph structures. 
