@@ -23,11 +23,13 @@ organizations:
 bio: My research interests include network science, vital node identification, and topological deep learning.
 
 interests:
-- Network Science
 - Topological Deep Learning
-- Higher-order Network Analysis
-- Influence Maximization
 - Graph Representation Learning
+- Higher-order Network Analysis
+- Molecular Foundation Model
+- Generative Models
+- Complex Systems
+- Influence Maximization
 - Quantum Computation
 
 education:
