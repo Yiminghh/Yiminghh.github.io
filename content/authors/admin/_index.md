@@ -20,21 +20,21 @@ organizations:
   url: "https://circle-group.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network science, vital node identification, and topological deep learning.
+bio: My research focuses on topological deep learning for complex and higher-order graph structures, as well as generative models, graph representation learning, and foundation models.
 
 interests:
 - Topological Deep Learning
-- Graph Representation Learning
 - Higher-order Network Analysis
-- Molecular Foundation Model
 - Generative Models
+- Graph Representation Learning
+- Foundation Models
+- Molecular Foundation Models
+- Network Science
 - Complex Systems
-- Influence Maximization
-- Quantum Computation
 
 education:
   courses:
-  - course: Studying in Computing Research 
+  - course: PhD in Computer Science
     institution: Imperial College London
   - course: MSc in Computer Science and Technology
     institution: University of Electronic Science and Technology of China (UESTC)
@@ -93,11 +93,11 @@ user_groups:
 - Visitors
 ---
 
-I am **Yiming Huang (黄一鸣)**, a PhD student and Lee Family scholar in the [CIRCLE](https://circle-group.github.io/) Group at *Imperial College London*, advised by Prof. [Tolga Birdal](https://tolgabirdal.github.io/). 
+I am **Yiming Huang (黄一鸣)**, a PhD student and Lee Family Scholar in the [CIRCLE](https://circle-group.github.io/) Group at *Imperial College London*, advised by Prof. [Tolga Birdal](https://tolgabirdal.github.io/). 
 Previously, I obtained an MSc in Computer Science and Technology from the *University of Electronic Science and Technology of China (UESTC)*, advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
-My research interests primarily focus on developing novel topological deep learning methods for understanding complex and higher-order graph structures. 
-I also interested in generative models, graph representation learning, higher-order network analysis, and their interdisciplinary applications.
+My research focuses on developing topological deep learning methods for understanding complex and higher-order graph structures.
+I am also interested in generative models, graph representation learning, foundation models, higher-order network analysis, and their interdisciplinary applications.
 
 
 Please feel free to reach out for potential collaborations or discussions :smiley:
