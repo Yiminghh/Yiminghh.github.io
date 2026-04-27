@@ -24,6 +24,10 @@
   url = "#talks"
   weight = 30
 
+[[main]]
+  name = "Resources"
+  url = "/resources/"
+  weight = 40
 
 [[main]]
   name = "Contact"
