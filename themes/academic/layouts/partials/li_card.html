@@ -44,6 +44,9 @@
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
   {{ $image := .Fill (printf "918x517 q90 %s" $anchor) }}
+  {{ if $item.Params.image.fit }}
+    {{ $image = .Resize "918x q90" }}
+  {{ end }}
   <a href="{{ $item.RelPermalink }}">
       <img src="{{ $image.RelPermalink }}" class="article-banner" alt="{{ $item.Title }}">
   </a>

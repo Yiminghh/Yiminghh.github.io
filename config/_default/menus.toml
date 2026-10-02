@@ -19,10 +19,11 @@
 #  url = "#posts"
 #  weight = 30
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 30
+# Talks section is hidden.
+# [[main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 30
 
 [[main]]
   name = "Resources"

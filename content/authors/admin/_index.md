@@ -96,7 +96,7 @@ user_groups:
 - Visitors
 ---
 
-I am **Yiming Huang (黄一鸣)**, a PhD student and Lee Family Scholar in the [CIRCLE](https://circle-group.github.io/) Group at *Imperial College London*, advised by Prof. [Tolga Birdal](https://tolgabirdal.github.io/). 
+I am **Yiming Huang (黄一鸣)**, a PhD student and Lee Family Scholar in the [CIRCLE](https://circle-group.github.io/) Group at *Imperial College London*, advised by Prof. [Tolga Birdal](https://tolgabirdal.com/).
 Previously, I obtained an MSc in Computer Science and Technology from the *University of Electronic Science and Technology of China (UESTC)*, advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
 My research focuses on developing topological deep learning methods for understanding complex and higher-order graph structures.
